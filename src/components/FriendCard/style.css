@@ -1,0 +1,14 @@
+.card{
+    text-align: center;
+    background:#6CADDC;
+    width: 325px;
+    height: 230px;
+  }
+  
+  .card-img{
+    height:85%;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+  }
+  
