@@ -3,6 +3,7 @@
     background:#6CADDC;
     width: 325px;
     height: 230px;
+    margin: 5px;
   }
   
   .card-img{
@@ -10,5 +11,6 @@
     width: 60%;
     text-align: center;
     margin: auto;
+    margin-top: 5%;
   }
   

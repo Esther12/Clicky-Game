@@ -6,8 +6,8 @@ import "./style.css";
 function FriendCard(props) {
 
   return (
-    <div className="card  border-warning" onClick={props.onClick}>
-      <img src={props.image} class="card-img" alt={props.name}></img>
+    <div className="card  border-warning" onClick={()=>props.onClick(props.name)}>
+      <img src={props.image} className="card-img" alt={props.name} data-type={props.clicked}></img>
       <div className="card-img-overlay">
       </div>
       </div>
