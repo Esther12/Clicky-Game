@@ -3,84 +3,84 @@
       "id": 1,
       "name": "SpongeBob",
       "image":
-        "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "01_SpongeBob_SquarePants.png",
       "clicked": false
     },
     {
       "id": 2,
       "name": "Mr. Krabs",
       "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "02_Mr._Krabs.png",
         "clicked": false
     },
     {
       "id": 3,
       "name": "Squidward",
       "image":
-        "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "03_Squidward.png",
         "clicked": false
     },
     {
       "id": 4,
       "name": "Patrick Star",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "04_Patrick_Starpng.png",
         "clicked": false
     },
     {
       "id": 5,
-      "name": "Patrick Star",
+      "name": "Sandy",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "05_Sandy_stock.png",
         "clicked": false
     },
     {
       "id": 6,
-      "name": "Patrick Star",
+      "name": "Sheldon Plankton",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "06_Sheldon_Plankton.png",
         "clicked": false
     },
     {
       "id": 7,
-      "name": "Patrick Star",
+      "name": "Gary",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "07_Gary.png",
         "clicked": false
     },
     {
       "id": 8,
-      "name": "Patrick Star",
+      "name": "Mrs. Puff",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "08_Mrs._Puff.png",
         "clicked": false
     },
     {
       "id": 9,
-      "name": "Patrick Star",
+      "name": "Pearl Krabs",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "09_Pearl_Krabs.png",
         "clicked": false
     },
     {
       "id": 10,
-      "name": "Patrick Star",
+      "name": "Karen",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "10_Karen.png",
         "clicked": false
     },
     {
       "id": 11,
-      "name": "Patrick Star",
+      "name": "Squniliam",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "11_Squilliam.png",
         "clicked": false
     },
     {
       "id": 12,
-      "name": "Patrick Star",
+      "name": "Larry Lobster",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "12_larry-the-lobster.png",
         "clicked": false
     }
   ]
