@@ -4,7 +4,7 @@ import "./style.css";
 
 function Subtitle(props) {
   return(
-    <div className="col-12">
+    <div className="col-12 my-5">
         <ul className="nav nav-pills nav-fill">
             <li className="nav-item">
             <a className="nav-link" >Score : {props.score}</a>
