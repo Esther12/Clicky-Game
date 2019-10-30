@@ -1,87 +1,74 @@
 [
-    {
-      "id": 1,
-      "name": "SpongeBob",
-      "image":
-        "01_SpongeBob_SquarePants.png",
-      "clicked": false
-    },
-    {
-      "id": 2,
-      "name": "Mr. Krabs",
-      "image":
-        "02_Mr._Krabs.png",
-        "clicked": false
-    },
-    {
-      "id": 3,
-      "name": "Squidward",
-      "image":
-        "03_Squidward.png",
-        "clicked": false
-    },
-    {
-      "id": 4,
-      "name": "Patrick Star",
-      "image":
-        "04_Patrick_Starpng.png",
-        "clicked": false
-    },
-    {
-      "id": 5,
-      "name": "Sandy",
-      "image":
-        "05_Sandy_stock.png",
-        "clicked": false
-    },
-    {
-      "id": 6,
-      "name": "Sheldon Plankton",
-      "image":
-        "06_Sheldon_Plankton.png",
-        "clicked": false
-    },
-    {
-      "id": 7,
-      "name": "Gary",
-      "image":
-        "07_Gary.png",
-        "clicked": false
-    },
-    {
-      "id": 8,
-      "name": "Mrs. Puff",
-      "image":
-        "08_Mrs._Puff.png",
-        "clicked": false
-    },
-    {
-      "id": 9,
-      "name": "Pearl Krabs",
-      "image":
-        "09_Pearl_Krabs.png",
-        "clicked": false
-    },
-    {
-      "id": 10,
-      "name": "Karen",
-      "image":
-        "10_Karen.png",
-        "clicked": false
-    },
-    {
-      "id": 11,
-      "name": "Squniliam",
-      "image":
-        "11_Squilliam.png",
-        "clicked": false
-    },
-    {
-      "id": 12,
-      "name": "Larry Lobster",
-      "image":
-        "12_larry-the-lobster.png",
-        "clicked": false
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "01_SpongeBob_SquarePants.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "02_Mr._Krabs.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "03_Squidward.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Patrick Star",
+    "image": "04_Patrick_Starpng.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Sandy",
+    "image": "05_Sandy_stock.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Sheldon Plankton",
+    "image": "06_Sheldon_Plankton.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Gary",
+    "image": "07_Gary.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Mrs. Puff",
+    "image": "08_Mrs._Puff.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Pearl Krabs",
+    "image": "09_Pearl_Krabs.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Karen",
+    "image": "10_Karen.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Squniliam",
+    "image": "11_Squilliam.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Larry Lobster",
+    "image": "12_larry_the_lobster.png",
+    "clicked": false
+  }
+]
