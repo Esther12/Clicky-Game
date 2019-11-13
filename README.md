@@ -1,4 +1,4 @@
-# E-Google-Library
+# Clicky-Game
 
 This projct is a react front-end project pratices 
 
